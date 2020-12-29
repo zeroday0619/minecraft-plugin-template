@@ -1,0 +1,2 @@
+[Kotlin] Minecraft plugin template
+==================================
