@@ -1,0 +1,9 @@
+name: minecraft_plugin_template
+main: com.github.zeroday0619.SamplePlugin
+version: 1.0-SNAPSHOT
+description: Sample plugin
+author: zeroday0619
+website: https://github.com/zeroday0619/minecraft-plugin-template
+api-version: 1.17
+library: 
+  - org.jetbrains.kotlin:kotlin-stdlib:1.5.31
